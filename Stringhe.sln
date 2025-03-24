@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringhe", "Stringhe\Stringhe.csproj", "{866B0187-5F47-4BF5-8CAD-B00B93791FA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsAppConsole", "ToolsAppConsole\ToolsAppConsole.csproj", "{C1901D46-6E7E-4CD4-9F9B-D90E0ECCCD82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{866B0187-5F47-4BF5-8CAD-B00B93791FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{866B0187-5F47-4BF5-8CAD-B00B93791FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{866B0187-5F47-4BF5-8CAD-B00B93791FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1901D46-6E7E-4CD4-9F9B-D90E0ECCCD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1901D46-6E7E-4CD4-9F9B-D90E0ECCCD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1901D46-6E7E-4CD4-9F9B-D90E0ECCCD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1901D46-6E7E-4CD4-9F9B-D90E0ECCCD82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
